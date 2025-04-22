@@ -1,0 +1,1058 @@
+{
+    "general_info": {
+        "name": "PSG Institute of Technology and Applied Research",
+        "short_name": "PSG iTech",
+        "established": "2014",
+        "type": "Private Engineering College",
+        "affiliation": "Anna University",
+        "approval": "AICTE",
+        "accreditation": "NAAC A+ Grade",
+        "location": {
+            "address": "Avinashi Road, Neelambur",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "pincode": "641062",
+            "country": "India"
+        },
+        "contact": {
+            "phone": [
+                "0422 3933 666",
+                "+91 8754042807",
+                "+91 8754042808"
+            ],
+            "email": "principal@psgitech.ac.in",
+            "website": "https://psgitech.ac.in"
+        },
+        "vision": "To achieve excellence in education and research, and nurture engineers with ethics, who will face global challenges to serve industry and society.",
+        "mission": [
+            "To facilitate active learning and vocational training.",
+            "To encourage and promote questioning spirit and 'can-do' entrepreneurial attitude.",
+            "To foster industry - institute collaboration.",
+            "To ignite passion for creative work and selfless service towards a sustainable world.",
+            "To provide intellectually stimulating environment, conducive for research."
+        ]
+    },
+    "academics": {
+        "programs": {
+            "undergraduate": {
+                "B.E. Artificial Intelligence & Data Science": {
+                    "duration": "4 years",
+                    "seats": 60,
+                    "eligibility": "10+2 with Mathematics, Physics, and Chemistry"
+                },
+                "B.E. Civil Engineering": {
+                    "duration": "4 years",
+                    "seats": 60,
+                    "eligibility": "10+2 with Mathematics, Physics, and Chemistry"
+                },
+                "B.E. Computer Science & Engineering": {
+                    "duration": "4 years",
+                    "seats": 120,
+                    "eligibility": "10+2 with Mathematics, Physics, and Chemistry"
+                },
+                "B.E. Electrical & Electronics Engineering": {
+                    "duration": "4 years",
+                    "seats": 60,
+                    "eligibility": "10+2 with Mathematics, Physics, and Chemistry"
+                },
+                "B.E. Electronics & Communication Engineering": {
+                    "duration": "4 years",
+                    "seats": 120,
+                    "eligibility": "10+2 with Mathematics, Physics, and Chemistry"
+                },
+                "B.E. Mechanical Engineering": {
+                    "duration": "4 years",
+                    "seats": 120,
+                    "eligibility": "10+2 with Mathematics, Physics, and Chemistry"
+                }
+            }
+        },
+        "departments": [
+            "Artificial Intelligence & Data Science",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronics Engineering",
+            "Electronics & Communication Engineering",
+            "Mechanical Engineering",
+            "Science & Humanities"
+        ]
+    },
+    "admissions": {
+        "process": [
+            "TNEA Counselling (Tamil Nadu Engineering Admissions)",
+            "Management Quota Admissions"
+        ],
+        "documents_required": [
+            "10th Mark Sheet",
+            "12th Mark Sheet",
+            "Transfer Certificate",
+            "Community Certificate",
+            "Nativity Certificate",
+            "Passport size photographs",
+            "Aadhaar Card"
+        ],
+        "important_dates": {
+            "application_start": "May",
+            "application_end": "July",
+            "academic_year_start": "August/September"
+        }
+    },
+    "facilities": {
+        "infrastructure": {
+            "campus": {
+                "area": "20 acres",
+                "green_campus": true,
+                "wifi_enabled": true
+            },
+            "library": {
+                "books": "More than 20,000",
+                "e_resources": true,
+                "digital_library": true
+            },
+            "laboratories": {
+                "computer_labs": true,
+                "research_labs": true,
+                "engineering_labs": true
+            },
+            "sports": {
+                "indoor": [
+                    "Table Tennis",
+                    "Chess",
+                    "Carrom",
+                    "Gymnasium"
+                ],
+                "outdoor": [
+                    "Cricket",
+                    "Football",
+                    "Basketball",
+                    "Volleyball"
+                ]
+            }
+        },
+        "amenities": {
+            "hostel": {
+                "boys_hostel": true,
+                "girls_hostel": true,
+                "mess_facility": true
+            },
+            "transport": {
+                "college_bus": true,
+                "routes": "Covering major areas of Coimbatore"
+            },
+            "medical": {
+                "health_center": true,
+                "ambulance": true
+            },
+            "cafeteria": true,
+            "atm": true,
+            "temple": true
+        }
+    },
+    "placements": {
+        "highlights": {
+            "placement_percentage": "Above 90%",
+            "top_recruiters": [
+                "TCS",
+                "Infosys",
+                "Wipro",
+                "CTS",
+                "HCL",
+                "Amazon",
+                "Zoho"
+            ],
+            "highest_package": "Best in class compensation packages",
+            "average_package": "Competitive industry standards"
+        },
+        "training": [
+            "Soft Skills Development",
+            "Technical Training",
+            "Mock Interviews",
+            "Group Discussions",
+            "Personality Development"
+        ]
+    },
+    "research": {
+        "centers": [
+            "Materials Processing And Testing Laboratory",
+            "Renewable Energy & Computation Fluid Dynamics Lab",
+            "Water And Sanitation Laboratory",
+            "Polymer Engineering Laboratory",
+            "Nanocrystal design and application Laboratory",
+            "Functional Materials Laboratory",
+            "Waste valorization Center"
+        ],
+        "publications": {
+            "journals": true,
+            "conferences": true,
+            "patents": true
+        },
+        "collaborations": {
+            "industry": true,
+            "academic": true,
+            "international": true
+        }
+    },
+    "student_life": {
+        "clubs": [
+            "Technical Clubs",
+            "Cultural Clubs",
+            "Sports Clubs",
+            "Social Service Clubs"
+        ],
+        "events": [
+            "Technical Symposiums",
+            "Cultural Festivals",
+            "Sports Meets",
+            "Workshops",
+            "Guest Lectures"
+        ],
+        "activities": [
+            "NSS",
+            "NCC",
+            "YRC",
+            "Rotaract"
+        ]
+    },
+    "achievements": {
+        "rankings": [
+            "NAAC A+ Grade",
+            "NBA Accredited Programs",
+            "Among Top Engineering Colleges in Tamil Nadu"
+        ],
+        "awards": [
+            "Excellence in Academic Performance",
+            "Research Contributions",
+            "Industry Collaboration"
+        ]
+    },
+    "pages": {
+        "https://psgitech.ac.in": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in"
+        },
+        "https://psgitech.ac.in/about": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/about"
+        },
+        "https://psgitech.ac.in/academics": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/academics"
+        },
+        "https://psgitech.ac.in/admissions": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/admissions"
+        },
+        "https://psgitech.ac.in/departments": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/departments"
+        },
+        "https://psgitech.ac.in/placements": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "placements",
+            "url": "https://psgitech.ac.in/placements"
+        },
+        "https://psgitech.ac.in/research": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "research",
+            "url": "https://psgitech.ac.in/research"
+        },
+        "https://psgitech.ac.in/cutt-off": {
+            "title": "PSG iTech",
+            "content": {
+                "be_btech": [
+                    {
+                        "academic_year": "TNEA Cut-off (2024 - 2025)",
+                        "pdf_url": "uploads/pdf/cut_off/2377_TNEA - Rank & Cut-off - 2024-2025.pdf",
+                        "file_name": "2377_TNEA - Rank & Cut-off - 2024-2025.pdf"
+                    },
+                    {
+                        "academic_year": "2024 - 2025",
+                        "pdf_url": "uploads/pdf/cut_off/BE_BTech_Cut_off_2024-2025.pdf",
+                        "file_name": "BE_BTech_Cut_off_2024-2025.pdf"
+                    },
+                    {
+                        "academic_year": "2023 - 2024",
+                        "pdf_url": "uploads/pdf/cut_off/Cut_off_2023_2024.pdf",
+                        "file_name": "Cut_off_2023_2024.pdf"
+                    },
+                    {
+                        "academic_year": "TNEA Cut-off (2023 - 2024)",
+                        "pdf_url": "uploads/pdf/cut_off/TNEA_Rank_Cut-off_2023-2024_rev.pdf",
+                        "file_name": "TNEA_Rank_Cut-off_2023-2024_rev.pdf"
+                    },
+                    {
+                        "academic_year": "2022 - 2023",
+                        "pdf_url": "uploads/pdf/cut_off/Cut_off_2022_2023.pdf",
+                        "file_name": "Cut_off_2022_2023.pdf"
+                    },
+                    {
+                        "academic_year": "2021 - 2022",
+                        "pdf_url": "uploads/pdf/cut_off/Cut_off_2021_2022.pdf",
+                        "file_name": "Cut_off_2021_2022.pdf"
+                    },
+                    {
+                        "academic_year": "2020 - 2021",
+                        "pdf_url": "uploads/pdf/cut_off/admission_2020-2021.pdf",
+                        "file_name": "admission_2020-2021.pdf"
+                    },
+                    {
+                        "academic_year": "2019 - 2020",
+                        "pdf_url": "uploads/pdf/cut_off/admission_2019-2020.pdf",
+                        "file_name": "admission_2019-2020.pdf"
+                    },
+                    {
+                        "academic_year": "2018 - 2019",
+                        "pdf_url": "uploads/pdf/cut_off/admission_2018-2019.pdf",
+                        "file_name": "admission_2018-2019.pdf"
+                    },
+                    {
+                        "academic_year": "2017 - 2018",
+                        "pdf_url": "uploads/pdf/cut_off/admission_2017-2018.pdf",
+                        "file_name": "admission_2017-2018.pdf"
+                    },
+                    {
+                        "academic_year": "2016 - 2017",
+                        "pdf_url": "uploads/pdf/cut_off/admission_2016-2017.pdf",
+                        "file_name": "admission_2016-2017.pdf"
+                    },
+                    {
+                        "academic_year": "2015 - 2016",
+                        "pdf_url": "uploads/pdf/cut_off/admission_2015-2016.pdf",
+                        "file_name": "admission_2015-2016.pdf"
+                    }
+                ],
+                "barch": [
+                    {
+                        "academic_year": "2023 - 2024",
+                        "pdf_url": "uploads/pdf/cut_off/barch/rev/B.Arch-Cut-off-2023-2024.pdf",
+                        "file_name": "B.Arch-Cut-off-2023-2024.pdf"
+                    },
+                    {
+                        "academic_year": "2022 - 2023",
+                        "pdf_url": "uploads/pdf/cut_off/barch/rev/B.Arch-Cut-off-2022-2023.pdf",
+                        "file_name": "B.Arch-Cut-off-2022-2023.pdf"
+                    },
+                    {
+                        "academic_year": "2021 - 2022",
+                        "pdf_url": "uploads/pdf/cut_off/barch/Barch_cutoff_2021_22.pdf",
+                        "file_name": "Barch_cutoff_2021_22.pdf"
+                    }
+                ],
+                "latest_cutoff": {
+                    "be_btech": {
+                        "academic_year": "TNEA Cut-off (2023 - 2024)",
+                        "pdf_url": "uploads/pdf/cut_off/TNEA_Rank_Cut-off_2023-2024_rev.pdf",
+                        "file_name": "TNEA_Rank_Cut-off_2023-2024_rev.pdf"
+                    },
+                    "barch": {
+                        "academic_year": "2023 - 2024",
+                        "pdf_url": "uploads/pdf/cut_off/barch/rev/B.Arch-Cut-off-2023-2024.pdf",
+                        "file_name": "B.Arch-Cut-off-2023-2024.pdf"
+                    }
+                }
+            },
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "cutoff",
+            "url": "https://psgitech.ac.in/cutt-off"
+        },
+        "https://psgitech.ac.in/departments/artificial-intelligence-and-data-science": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "department",
+            "url": "https://psgitech.ac.in/departments/artificial-intelligence-and-data-science"
+        },
+        "https://psgitech.ac.in/departments/civil-engineering": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "department",
+            "url": "https://psgitech.ac.in/departments/civil-engineering"
+        },
+        "https://psgitech.ac.in/departments/computer-science-engineering": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "department",
+            "url": "https://psgitech.ac.in/departments/computer-science-engineering"
+        },
+        "https://psgitech.ac.in/departments/electrical-electronics-engineering": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "department",
+            "url": "https://psgitech.ac.in/departments/electrical-electronics-engineering"
+        },
+        "https://psgitech.ac.in/departments/electronics-communication-engineering": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "department",
+            "url": "https://psgitech.ac.in/departments/electronics-communication-engineering"
+        },
+        "https://psgitech.ac.in/departments/mechanical-engineering": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "department",
+            "url": "https://psgitech.ac.in/departments/mechanical-engineering"
+        },
+        "https://psgitech.ac.in/departments/science-humanities": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "department",
+            "url": "https://psgitech.ac.in/departments/science-humanities"
+        },
+        "https://psgitech.ac.in/programmes-offered": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/programmes-offered"
+        },
+        "https://psgitech.ac.in/researchforms": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "research",
+            "url": "https://psgitech.ac.in/researchforms"
+        },
+        "https://psgitech.ac.in/re-workshops": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/re-workshops"
+        },
+        "https://psgitech.ac.in/waste-valorization": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/waste-valorization"
+        },
+        "https://psgitech.ac.in/admission-details": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/admission-details"
+        },
+        "https://psgitech.ac.in/assets/pdf/admission/ME-Application%20for%20Admission-2025-2026.doc": {
+            "title": "",
+            "content": "",
+            "metadata": {},
+            "type": "html",
+            "url": "https://psgitech.ac.in/assets/pdf/admission/ME-Application%20for%20Admission-2025-2026.doc"
+        },
+        "http://psgitech.ac.in/programmes-offered": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "http://psgitech.ac.in/programmes-offered"
+        },
+        "http://psgitech.ac.in/transport": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "http://psgitech.ac.in/transport"
+        },
+        "https://psgitech.ac.in/assets/pdf/admission/PSG_iTech_Admission_Brochure_2024_25.pdf": {
+            "content": "",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/assets/pdf/admission/PSG_iTech_Admission_Brochure_2024_25.pdf",
+            "filename": "PSG_iTech_Admission_Brochure_2024_25.pdf"
+        },
+        "https://psgitech.ac.in/temple": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/temple"
+        },
+        "https://psgitech.ac.in/sports": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/sports"
+        },
+        "https://psgitech.ac.in/organogram": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/organogram"
+        },
+        "https://psgitech.ac.in/infrastructure": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/infrastructure"
+        },
+        "https://psgitech.ac.in/facilities": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/facilities"
+        },
+        "https://psgitech.ac.in/library": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/library"
+        },
+        "https://psgitech.ac.in/hostel": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/hostel"
+        },
+        "https://psgitech.ac.in/transport": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/transport"
+        },
+        "https://psgitech.ac.in/canteen": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/canteen"
+        },
+        "https://psgitech.ac.in/medical-facility": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/medical-facility"
+        },
+        "https://psgitech.ac.in/faculty": {
+            "title": "PSG iTech",
+            "content": [],
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "faculty",
+            "url": "https://psgitech.ac.in/faculty"
+        },
+        "https://psgitech.ac.in/faculty-achievements": {
+            "title": "PSG iTech",
+            "content": [],
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "faculty",
+            "url": "https://psgitech.ac.in/faculty-achievements"
+        },
+        "https://psgitech.ac.in/faculty-publications": {
+            "title": "PSG iTech",
+            "content": [],
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "faculty",
+            "url": "https://psgitech.ac.in/faculty-publications"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria1/1.1.3/1.1.3%20-%20Facing%20Sheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai 1.1.3 Teachers of the Institution participate in following activities related to curriculum development and assessment of the affiliating University and/are represented on the following academic bodies during the year The supporting documents for this metric exceed the upload limit of 5MB. Hence the documents are made available in HEI website and links for t he metric is given below. Metric Parameter Link to the Relevant Document 1.1.3 Teachers of the Institution participate in following activities related to curriculum development and assessment of the affiliating University and/are represented on the following academic bodies during the year VIEW principal@psgitech.ac.in www.psgitech.ac.in Phone : 0422 3933666",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria1/1.1.3/1.1.3%20-%20Facing%20Sheet.pdf",
+            "filename": "1.1.3%20-%20Facing%20Sheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria1/1.3.2/1.3.2%20-%20Facing%20Sheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai 1.3.2 Number of courses that include experiential learning through project work/field work/internship during the year The supporting documents for this metric exceed the upload limit of 5MB. Hence the documents are made available in HEI website and links for the metric is given below. Metric Parameter Link to the Relevant Document 1.3.2 Number of courses that include experiential learning through project work / field work / internship during the year VIEW principal@psgitech.ac.in www.psgitech.ac.in Phone : 0422 3933666",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria1/1.3.2/1.3.2%20-%20Facing%20Sheet.pdf",
+            "filename": "1.3.2%20-%20Facing%20Sheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria1/1.3.3/1.3.3%20-%20Facing%20Sheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai 1.3.3 Number of students undertaking project work/field work/ internships The supporting documents for this metric exceed the upload limit of 5MB. Hence the documents are made available in HEI website and links for the metric is given below. Metric Parameter Link to the Relevant Document 1.3.3 Number of students undertaking project work / field work / internships VIEW principal@psgitech.ac.in www.psgitech.ac.in Phone : 0422 3933666",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria1/1.3.3/1.3.3%20-%20Facing%20Sheet.pdf",
+            "filename": "1.3.3%20-%20Facing%20Sheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria2/2.6.2/2.6.2%20Facesheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Neelambur, Coimbatore 641 062 Approved by AICTE, New Delhi, Affiliated to Anna University, Chennai 2.6.2 - Attainment of Programme outcomes and course outcomes are evaluated by the institution. S. No. Particulars of Uploaded Documents Link to the Relevant Documents 1 CO-PO Attainment Process Manual View Document",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria2/2.6.2/2.6.2%20Facesheet.pdf",
+            "filename": "2.6.2%20Facesheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria3/3.1.1/3.1.1%20facesheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur , Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai principal@psgitech.ac.in www.psgitech.ac.in Phone : 0422 3933666 3.1.1 Grants received from Government and non -governmental agencies for research projects / endowments in the institution during the year (INR in Lakhs) 3.1.1.1 Total Grants from Government and non -governmental agencies for research projects / endowments in the institution during the year (INR in Lakhs) Metric Parameter Link to the Relevant Document 3.1.1 Grants received from Government and non-governmental agencies for research projects / endowments in the institution during the year (INR in Lakhs) VIEW",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria3/3.1.1/3.1.1%20facesheet.pdf",
+            "filename": "3.1.1%20facesheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria3/3.3.2/3.3.2%20facesheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai principal@psgitech.ac.in www.psgitech.ac.in Phone : 0422 3933666 3.3.2 Number of research papers per teachers in the Journals notified on UGC website during the year 3.3.2.1 Number of research papers in the journals notified on UGC website during the year Metric Parameter Link to the Relevant Document 3.3.2 Number of research papers in the journals notified on UGC website during the year VIEW",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria3/3.3.2/3.3.2%20facesheet.pdf",
+            "filename": "3.3.2%20facesheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria3/3.4.3/3.4.3%20facesheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai principal@psgitech.ac.in www.psgitech.ac.in Phone : 0422 3933666 3.4.3 Number of extension and outreach Programmes conducted by the institution through NSS/ NCC/ Red Cross/ YRC etc., (including the programmes such as Swachh Bharat, AIDS awareness, Gender issues etc. ) and/or those organised in collaboration with industry, community and NGOs during the year 3.4.3.1 Number of extension and outreach programs conducted in collaboration with industry, community and Non -Government Organization through NSS/NCC/Red Cross/YRC etc., during the year Metric Parameter Link to the Relevant Document 3.4.3 Number of extension and outreach Programmes conducted by the institution through NSS/ NCC/ Red Cross/ YRC etc., (including the programmes such as Swachh Bharat, AIDS awareness, Gender issues etc.) and/or those organised in collaboration with industry, community and NGOs during the year VIEW",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria3/3.4.3/3.4.3%20facesheet.pdf",
+            "filename": "3.4.3%20facesheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria4/4.1.4/4.1.4%20face%20sheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai 4.1.4. Expenditure, excluding salary for infrastructure augmentation during the year (INR in Lakhs) Metric Particulars Link 4.1.4 Expenditure, excluding salary for infrastructure augmentation during the year (INR in Lakhs) View",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria4/4.1.4/4.1.4%20face%20sheet.pdf",
+            "filename": "4.1.4%20face%20sheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria4/4.2.1/4.2.1%20face%20sheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai 4.2.1. Library is automated using Integrated Library Management System (ILMS) Metric Particulars Link 4.2.1 Library is automated using Integrated Library Management System (ILMS) View",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria4/4.2.1/4.2.1%20face%20sheet.pdf",
+            "filename": "4.2.1%20face%20sheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria4/4.2.4/4.2.4%20face%20sheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai 4.2.4 Number per day usage of library by teachers and students ( foot falls and login data for online access) Metric Particulars Link 4.2.4 4.2.4.1 Number of teachers and students using library per day over last one year View",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria4/4.2.4/4.2.4%20face%20sheet.pdf",
+            "filename": "4.2.4%20face%20sheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria4/4.4.1/4.4.1%20face%20sheet.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur, Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai 4.4.1 Expenditure incurred on maintenance of infrastructure (physical and academic support facilities) excluding salary component DURING THE YEAR(INR in Lakhs) Metric Particulars Link 4.4.1 4.4.1.1. Expenditure Incurred on Maintenance of Infrastructure (Physical Facilities and Academic Support Facilities) Excluding Salary Component During the Year (INR In Lakhs) View",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria4/4.4.1/4.4.1%20face%20sheet.pdf",
+            "filename": "4.4.1%20face%20sheet.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria5/5.2.2/5.2.2.pdf": {
+            "content": "5.2.2 Number of students progressing to higher education during the year 2023 -2024 S.No Placement Details Appointment order link 1. Students progressing to higher education during the year 2023- 2024 Click Here",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria5/5.2.2/5.2.2.pdf",
+            "filename": "5.2.2.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria6/6.1.1/6.1.1.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi road, Neelambur, Coimbatore 641062 Approved by AICTE, New Delhi; Affiliated to Anna University, Chennai All Eligible 5 Programs Accredited by NBA, Ranked 101- 150 in NIRF 2024, Graded A+ in NAAC (cycle 1) 6.1.1 The governance of the institution is reflective of and in tune with the vision and mission of the institution Metric Parameter Link to the Relevant Document 6.1.1 Link for additional information (Refer to Vision and Mission of the Institution) https://psgitech.ac.in/ Additional information VIEW",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria6/6.1.1/6.1.1.pdf",
+            "filename": "6.1.1.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria6/6.3.5/6.3.5.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi road, Neelambur, Coimbatore 641062 Approved by AICTE, New Delhi; Affiliated to Anna University, Chennai All Eligible 5 Programs Accredited by NBA, Ranked 101- 150 in NIRF 2024, Graded A+ in NAAC (cycle 1) 6.3.5 Institutions Performance Appraisal System for teaching and non - teaching staff Metric Parameter Link to the Relevant Document 6.3.5 Link for additional information (refer to important links – HR Policy) https://psgitech.ac.in/ Additional information VIEW",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria6/6.3.5/6.3.5.pdf",
+            "filename": "6.3.5.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/criteria7/7.1.8/7.1.8.pdf": {
+            "content": "PSG Institute of Technology and Applied Research Avinashi Road, Neelambur , Coimbatore - 641062 Approved by AICTE, New Delhi |Affiliated to Anna University, Chennai principal@psgitech.ac.in www.psgitech.ac.in Phone : 0422 3933666 7.1.8 - Describe the Institutional efforts/initiatives in providing an inclusive environment i.e., tolerance and harmony towards cultural, regional, linguistic, communal socioeconomic and other diversities (within 200 words) Metric Parameter Link to the Relevant Documents 7.1.8 7.1.8 - Describe the Institutional efforts/initiatives in providing an inclusive environment i.e., tolerance and harmony towards cultural, regional, linguistic, communal socioeconomic and other diversities (within 200 words) Link",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/criteria7/7.1.8/7.1.8.pdf",
+            "filename": "7.1.8.pdf"
+        },
+        "https://psgitech.ac.in/naac/aqar202324/extendedprofile/4.3/4.3%20facesheet.pdf": {
+            "content": "PSGInstituteofTechnologyandAppliedResearch AvinashiRoad,Neelambur,Coimbatore-641062 ApprovedbyAICTE,NewDelhi|AffiliatedtoAnnaUniversity,Chennai Metric (Extended)Parameter Linktotherelevant document 4.3 Totalnumberofcomputerson campusforacademicpurposes.View",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/naac/aqar202324/extendedprofile/4.3/4.3%20facesheet.pdf",
+            "filename": "4.3%20facesheet.pdf"
+        },
+        "https://psgitech.ac.in/assets/pdf/research_forms/Research%20Fellowship%20Rules%20and%20Regulations.pdf": {
+            "content": "",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/assets/pdf/research_forms/Research%20Fellowship%20Rules%20and%20Regulations.pdf",
+            "filename": "Research%20Fellowship%20Rules%20and%20Regulations.pdf"
+        },
+        "https://psgitech.ac.in/assets/pdf/research/Webiste%20Sponsored%20Projects.pdf": {
+            "content": "Sponsored Projects # Investigator(s) Title of the project Agency/ Scheme Sanctioned Date Project Duration Sanctioned Amount (Rs.) Status 1 Dr. P. Manoj Kumar Development of Cost -Effective 2.5 KW Proton exchange membrane (PEM) Fuel Cell Stack based on less -Pt Bimetallic Electrocatalysts and Mesoporous Carbon Support Materials Ministry of Petroleum and Natural Gas 20 Sep 2023 24 months 6,578,000 Approved 2 Dr. M Jayasanthi Wearable Thoracic Fluid Content Measurement Prototype for Congestive Heart Failure Patients DBT/BIRAC 26 Dec 2022 8 months 1,000,000 On-going 3 Dr. R. Manimegalai Security Enhancement Techniques for Multi -Core Processors SERB/TARE 6 Oct 2022 36 Months 1,830,000 On-going 4 Dr M Jayasanthi Development of an improved multivariate machine learning solution with additional features for non-invasive anemia detection SERB/TARE 2 Dec 2021 36 Months 1,830,000 On-going 5 Dr V Rajkumar Wire Arc Additive Manufacturing of of Hastelloy C 276 for chemical and pressure vessel applications SERB/TARE 2 Dec 2021 36 Months 1,830,000 On-going 6 Dr M Devasena Evaluation of vancomycin resistant bacteria neutralization kinetics and possible transduction of resistant determinants by bacteriophage encapsulated core shell nanofiber membranes in hospital effluent treatment SERB/CRG 29 Oct 2021 36 Months 702,000 On-going 7 Dr M I Abdul Aleem Dr A Hariharan Mr K Kavikumaran Development of Value -added green construction materials from Waste Foundry Sand DST/WMT 23 Aug 2021 36 Months 4,448,306 On-going 8 Dr M I Abdul Aleem Mr K Kavikumaran Processing and Development of hybrid eco-friendly raw material for manufacturing indoor lightweight wall panel DST/WMT 26 Mar 2021 36 Months 5,397,040 On-going 9 Dr D Thangaraju Solution Processed Upconversion Luminescent Nanoparticle Selfassembly for Development of Electron Beam Excitation Assisted High -resolution Optical Microscope DST/IJCSP 4 Jan 2021 24 Months 538,200 On-going 10 Dr A Kumaravel Synthesis of a novel, highly hydrophobic and antimicrobial organic inhibitors for corrosion protection applications of mild steel in acidic medium SERB/TARE 18 Nov 2020 36 Months 1,830,000 On-going 11 Dr M Devasena Transport of Dissolved Methane Plumes in Groundwater: Experimental and Numerical Investigations DST/Indo -Iran 30 Jan 2020 24 Months 560,680 On-going 12 Dr M Devasena Sanitation in the Circular Economy – an integrative modularonsite toilet treatment for recovery of NPK fertilizer, carbon water SERB/IMPRINT -2 22 Jan 2020 24 Months 1,60,000 Completed 13 Dr M Arun Affordable Housing for Economically Weaker Section in all Disaster Prone Areas SERB/TARE 16 Dec 2019 36 Months 1,830,000 Completed 14 Dr P Prabhunathan Design and Fabrication of Supercapacitor Device from Nitrogen Rich Porous Carbon of Hybrid Bio -Mass Polybenzoxazines SERB/TARE 04 Dec 2019 36 Months 1,830,000 Completed 15 Dr P Manoj Kumar Development of Mesoporous TiN@Nitrogen -doped Carbon Nanostructured support materials with less-pt electrocatalysts for durable and low-cost PEM fuel cells DST/ORTD 30 Sep 2019 36 Months 385,000 Completed 16 Dr G Rajeshkumar Investigation on mechanics of needle insertion on soft materials SERB/TARE 12 Mar 2019 36 Months 1,830,000 Completed 17 Dr P Manoj Kumar Modelling and experimental studies of cavitation in globe valve SERB/TARE 26 Feb 2019 36 Months 1,830,000 Completed 18 Dr D Thangaraju Development of lead -free all -inorganic halide perovskites embedded silica nanomatrix for bioimaging applications SERB/ECRA 19 Nov 2018 36 Months 4,895,411 Completed 19 Dr G Chandramohan Improvement of mechanical properties of medium carbon low alloy steel through boronizing technique ARDB 19 July 2016 24 Months 859,500 Completed Total 4,01,64,137",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/assets/pdf/research/Webiste%20Sponsored%20Projects.pdf",
+            "filename": "Webiste%20Sponsored%20Projects.pdf"
+        },
+        "https://psgitech.ac.in/assets/pdf/research/Fellowship_PSGiTech.pdf": {
+            "content": "Scholarship for Full time Research Scholars 1 Objectives The objectives of this scheme are: (a) To provide research fellowship to full time meritorious research scholars admitted to Ph.D programme in the departments of PSG Institute of Technology and Applied Research , for carrying out research . (b) To nurture talents for technical research and enhance the ecosystem existing for research. (c) To promote collaborative research between Institute and Industries leading to patents and publications. 2 Eligibility (a) The fellowship will be granted to research scholars admitted for pursuing full time research under Anna University, Chennai in PSG Institute of Technology and Applied Research (b) (i) A candidate shall apply and get selected for pursuing full time PhD programme in PSG Institute of Technology and Applied Research under Anna University, Chennai. (ii) The selected scholar shall get admitted in PSG Institute of Technology and Applied Research and shall complete the prescribed course work in the college and shall get the confirmation of his/her provisional registration from Anna University, Chennai. 3 Duration of the scheme The duration of the scheme shall be for a period of 6 semesters (3 years) or till they submit their thesis, whichever is earlier. No further extension of fellowship will be granted. 4 Disbursement of the Funds The candidate will be provided a fellowship of Rs. 12,000/ - per month . 5 Processing Methodology Eligible candidates will be interviewed by a committee constituted by the Head of the Institution and selected based on the recommendation of the committee. 6 Terms and Conditions (a) The awardee shall submit a semester wise progress report at the beginning of each semester through the Research Supervisor and Head of the Department. (b) The awardee shall also actively participate and present his/her findings in research seminars, research conclaves, workshops etc. as and when organized by the department/college. (c) The awardee shall devote full time to research during the tenure of fellowship and will not be permitted to take any part time/full time assignment. He/she will not accept any other salary or fellowship, if offered during the tenure of fellowship through any other source. (d) The awardee shall give a declaration that if the results of research could be exploited commercially through technology transfer/by taking a patent or otherwise, commercial exploitation and patent rights shall be with the Institute, candidate and supervisor. However, the rules of PSG Institute of Technology and Applied Research will be applicable. (e) The awardee will be governed by the currently existing regulations for PhD from Anna University, Chennai (refer to the website of Centre for Research, Anna University, Chennai). (f) If the progress of the scholar is not satisfactory as reported by the Supervisor/Head of the Department, the fellowship of the candidature will be terminated with immediate effect. This will not be revoked under any circumstances. In such a case, the scholar is liable to refund the entire fellowship received by him/her till date. (g) If, at any point of time in the duration of the scheme, a scholar is found to have submitted fake documents or false information either at the time of applying / getting admitted to this scheme or when requested by PSG Institute of Technology and Applied Research during the course of the scheme, the award of the fellowship will be summarily cancelled and the scholar is liable to refund the entire fellowship received by him/her till date. (h) The scholar shall furnish an undertaking that, if he/she wishes to discontinue from the PhD programme, or wants to convert from full time to part time mode within the duration for which he/she has been offered fellowship, he/she shall be liable to refund the entire amount of fellowship received by him/her till the date of his/her leaving the scheme. 7 Leave Rules  Scholars can avail 12 days of leave in a year in addition to public holidays. They are not entitled to any other vacations. If a scholar takes more than the entitled leave, the fellowship amount will be reduced proportionately.  Women scholars are eligible for maternity leave as per GoI norms issued from time to time, once during the tenure of the award. However, the fellowship will be discontinued during the maternity leave period and will be resumed after the scholar re-joins the college. Also, the maximum duration of fellowship will not be extended under any circumstances. 8 Expected outcome from research  The outcome of the research should result in a minimum of FIVE publications (At least two of them should be in Q1 journal ) of research articles in peer -reviewed journals indexed in Scopus or Web of Science and listed in Annexure – I of Anna University list of approved journals.  Scholars are advised to apply for national fellowships like UGC- SRF and other scholarships available for Ph.D scholars.  A complete research proposal to be submitted to a funding agency. PSG INSTITUTE OF TECHNOLOGY AND APPLIED RESEARCH Neelambur, Coimbatore Part -A (Personal Details ) Sl. No. Particulars Details 1 Name 2 Registration No 3 Address 4 Phone No 5 Email 6 Date of joining 7 Name of the Supervisor 8 Department of the Supervisor 9 Name of the Co -Supervisor (if any) 10 Department of the Co-Supervisor (if any) 11 Status of Coursework (Completed/Not Completed) 12 Status of Confirmation (Completed/Not Completed) Part -B (Educational Qualification and Previous Experience) 1. Educational Qualification Qualification Subject Board/University Year Percentage Post-Graduation Under Graduation CSIR/UGC -NET/ SLET/GATE/ TANCET (if applicable) 2. Are you currently working in any funded project with fellowship as Project assistant/Project fellow?  YES  NO 3. Total Experience Teaching Experience: (…….. Year + ……… Months) Research Experience: (………Year + ……… Months) Industrial Experience: (………Year + ……… Months) PSG INSTITUTE OF TECHNOLOGY AND APPLIED RESEARCH Neelambur, Coimbatore Undertaking by the Applicant 1. This is to certify that the information furnished in the above applications are true to best of my/our knowledge. 2. I/We Will publish findings in SCOPUS / Web of Science Journals during the period, with due acknowledgement of the institution. 3. The intellectual property right of the findings will rest jointly with the Institution (as owner) and investigator(s) (as inventors) 4. I/We will return the full sanctioned fellowship amount, if any of the above are not complied with. Date: Place: Name and signature of applicant Name and signature of Guide Name and signature of HoD (For Use By Research Advisory Committee) 1. Comments 2. Status of Approval (Approved / Not Approved) Date: Name and Signature of Committee Members Place: 1. 2. 3. 4.",
+            "type": "pdf",
+            "url": "https://psgitech.ac.in/assets/pdf/research/Fellowship_PSGiTech.pdf",
+            "filename": "Fellowship_PSGiTech.pdf"
+        },
+        "https://psgitech.ac.in/assets/pdf/research_forms/APPENDIX%20-%20I.docx": {
+            "content": "DOCX file available",
+            "type": "docx",
+            "url": "https://psgitech.ac.in/assets/pdf/research_forms/APPENDIX%20-%20I.docx",
+            "filename": "APPENDIX%20-%20I.docx"
+        },
+        "https://psgitech.ac.in/whypsg-itech": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/whypsg-itech"
+        },
+        "https://psgitech.ac.in/contact": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/contact"
+        },
+        "https://psgitech.ac.in/news": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/news"
+        },
+        "https://psgitech.ac.in/events": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/events"
+        },
+        "https://psgitech.ac.in/gallery": {
+            "title": "PSG iTech",
+            "content": "Students Current Students Scholarships Student Council Wellness Center Students Info Feedback Download Wi-Fi Registration Form Prospective Students Why PSG iTech? Admission Process Programmes offered Faculty Faculty Info Achievements and Awards Faculty club IRINS Parents Know your ward Queries and Suggestions Careers Contact | ERP LAUDEA Fee Online",
+            "metadata": {
+                "viewport": "width=device-width, initial-scale=1",
+                "google-site-verification": "cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g",
+                "keywords": "PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur ",
+                "description": "PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives."
+            },
+            "type": "html",
+            "url": "https://psgitech.ac.in/gallery"
+        },
+        "https://psgitech.ac.in/alumni": {
+            "title": "",
+            "content": "",
+            "metadata": {},
+            "type": "html",
+            "url": "https://psgitech.ac.in/alumni"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/2377_TNEA - Rank & Cut-off - 2024-2025.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/2377_TNEA - Rank & Cut-off - 2024-2025.pdf",
+            "filename": "2377_TNEA - Rank & Cut-off - 2024-2025.pdf",
+            "content": "PSG Institute of Technology and Applied Research - Coimbatore 2377 - TNEA - 2024 - Rank & Cut -off Department OC BC BCM MBC SC SCA ST AI&DS Rank 2614 3838 2649 4894 16559 29759 48074 Cutoff 195 193.5 195 192.5 184.5 177 168 Civil Rank 22425 31345 47580 32907 74438 77826 ** Cutoff 181 176 168 175.5 155.5 154 ** CSE Rank 1956 2940 3754 4007 21427 25770 41199 Cutoff 196 194.5 194 193.5 181.5 179 171 ECE Rank 2632 3618 4976 5219 22034 23262 58272 Cutoff 195 194 192.5 192.5 181.5 180.5 163 EEE Rank 4591 6816 6634 10367 32440 80844 ** Cutoff 193 191 191 188.5 175.5 152.5 ** I&CE Rank 11663 16002 11708 17350 66740 59636 ** Cutoff 188 185 188 184 159 162 ** Mech Rank 11028 15194 16586 20212 43279 131114 ** Cutoff 188 185.5 184.5 182.5 170 130 **",
+            "parsed_data": {},
+            "academic_year": "2024-2025"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/BE_BTech_Cut_off_2024-2025.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/BE_BTech_Cut_off_2024-2025.pdf",
+            "filename": "BE_BTech_Cut_off_2024-2025.pdf",
+            "content": "Cut-off Data -(2024-2025) S. NO. BRANCH APPROVED INTAKE RANGE OF CUT -OFF MARKS GOVERNMENT QUOTA (OC & BC) MANAGEMENT QUOTA STATE BOARD (TN) CBSE MAX MIN MAX MIN MAX MIN 1 Civil Engineering 60 187.5 176 175 150.5 164 151 2 Computer Science and Engineering 180 198.5 194.5 195 192 193 188.5 3 Electrical and Electronics Engineering 60 194.5 191 188 186 186 181.5 4 Electronics and Communication Engineering 120 196.5 194 193 190.5 191.5 186 5 Instrumentation and Control Engineering 60 189.5 185 186 179 185.5 175 6 Mechanical Engineering 60 190.5 185.5 179.5 170.5 180 174 7 Artificial Intelligence and Data Science 60 197 193.5 194.5 191.5 193.5 187",
+            "parsed_data": {},
+            "academic_year": "2024-2025"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/Cut_off_2023_2024.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/Cut_off_2023_2024.pdf",
+            "filename": "Cut_off_2023_2024.pdf",
+            "content": "Cut-off Data -(2023- 2024) S. NO. BRANCH APPROVED INTAKE RANGE OF CUT-OFF MARKS GOVERNMENT QUOTA (OC & BC) MANAGEMENT QUOTA STATE BOARD (TN) CBSE MAX MIN MAX MIN MAX MIN 1 Civil Engineering 60 186.5 170.5 169.0 156.5 171.0 150.0 2 Computer Science and Engineering 60 198.0 196.5 194.5 192.5 193.0 190.0 3 Electrical and Electronics Engineering 60 193.0 189.5 188.5 185.0 184.5 180.0 4 Electronics and Communication Engineering 120 196.0 193.0 195.0 189.0 194.0 187.0 5 Mechanical Engineering 60 189.5 178.5 197.5 170.0 179.0 169.0 6 Artificial Intelligence and Data Science 60 197.5 193.5 195.5 191.5 190.5 188.5",
+            "parsed_data": {}
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/TNEA_Rank_Cut-off_2023-2024_rev.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/TNEA_Rank_Cut-off_2023-2024_rev.pdf",
+            "filename": "TNEA_Rank_Cut-off_2023-2024_rev.pdf",
+            "content": "PSG Institute of Technology and Applied Research - Coimbatore 2377 - TNEA - 2023 - Rank & Cut -off Department OC BC BCM MBC SC SCA ST AI&DS Rank 2115 2870 2857 4665 20237 29623 46981 Cutoff 196 195 195 192.5 178.5 172 161.5 CS&BS Rank 3810 4904 8608 7306 31953 48512 ** Cutoff 193.5 192 189 190 170.5 160.5 ** Civil Rank 22035 31841 32836 40265 64223 71870 ** Cutoff 177.5 170.5 170 165.5 152.5 149 ** CSE Rank 1588 1945 4330 3638 20166 15073 ** Cutoff 197 196.5 193 193.5 178.5 183 ** ECE Rank 3063 4115 3488 7377 35017 61618 ** Cutoff 194.5 193 194 190 168.5 154 ** EEE Rank 6213 7854 7601 8222 36295 61734 62505 Cutoff 191 189.5 190 189 167.5 154 153.5 Mech Rank 12646 20299 21064 32946 50264 ** ** Cutoff 185 178.5 178 170 159.5 ** **",
+            "parsed_data": {},
+            "academic_year": "2023-2024"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/Cut_off_2022_2023.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/Cut_off_2022_2023.pdf",
+            "filename": "Cut_off_2022_2023.pdf",
+            "content": "Cut-off Data -(2022-2023) S. NO. BRANCH APPROVED INTAKE RANGE OF CUT -OFF MARKS GOVERNMENT QUOTA (OC & BC) MANAGEMENT QUOTA STATE BOARD (TN) CBSE MAX MIN MAX MIN MAX MIN 1 Civil Engineering 60 187.0 172.5 183.5 153.0 178.0 151.0 2 Computer Science and Engineering 60 197.0 195.0 197.0 190.0 194.0 191.0 3 Electrical and Electronics Engineering 60 195.5 191.0 188.5 184.5 189.5 181.5 4 Electronics and Communication Engineering 60 196.0 194.5 192.5 186.0 191.5 187.5 5 Mechanical Engineering 60 191.5 182.0 183.5 172.0 187.0 172.0 6 Artificial Intelligence and Data Science 60 197.0 195.0 192.5 190.0 191.0 187.5 7 Computer Science and Business System 60 195.5 193.5 190.5 186.5 189.5 184.0",
+            "parsed_data": {}
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/Cut_off_2021_2022.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/Cut_off_2021_2022.pdf",
+            "filename": "Cut_off_2021_2022.pdf",
+            "content": "Cut-off Data -(2021-2022) S. No. BRANCH Approved Intake Range of Cut -off Marks GOVERNMENT QUOTA (OC & BC) MANAGEM ENT QUOTA STATE BOARD (TN) CBSE MAX MIN MAX MIN MAX MIN 1 Civil Engineering 60 189.65 185.18 179.47 156.99 183.00 157.50 2 Computer Science and Engineering 60 196.50 194.00 193.29 189.81 195.00 191.00 3 Electrical and Electronics Engineering 60 193.00 191.00 189.08 181.30 189.00 182.00 4 Electronics and Communication Engineering 60 193.88 193.00 192.07 186.43 194.50 189.00 5 Mechanical Engineering 60 191.00 188.46 187.86 172.12 188.50 173.50",
+            "parsed_data": {}
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2020-2021.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2020-2021.pdf",
+            "filename": "admission_2020-2021.pdf",
+            "content": "Cut-off Data- (2020- 2021) S. N o. Branch Approved Intake Range of Cut- off Marks GOVERNMENT QUOTA (OC & BC) MANAGEMANT Q UOTA State Board (TN) CBSE Max Min Max Min Max Min 1 Civil Engineering 60 184.0 173.0 164.5 133.5 174.0 132.0 2 Computer Science and Engineering 60 190.5 190.0 188.5 180.0 189.0 183.5 3 Electrical and Electronics Engineering 60 188.0 186.0 179.0 151.0 185.5 170.5 4 Electronics and Communication Engineering 60 190.0 188.5 185.5 178.0 190.0 179 5 Mechanical Engineering 60 188. 0 180.0 177.0 163.0 187.5 157",
+            "parsed_data": {},
+            "academic_year": "2020-2021"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2019-2020.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2019-2020.pdf",
+            "filename": "admission_2019-2020.pdf",
+            "content": "Cut-off Data - (2019 -2020 ) SL. NO. BRANCH APPROVED INTAKE RANGE OF CUT -OFF MARKS GOVERNMENT QUOTA (OC & BC) MANAGEMENT QUOTA TN STATE BOARD CBSE & I CSE OTHER STATE BOARD S 1 Civil Engineering 60 184.00 to 171.50 181.00 to 153.50 172.00 to 166.00 -- 2 Computer Science and Engineering 60 193.00 to 188.50 191.00 to 184.00 193.00 to 172.00 200.00 (Board of Intermediate Education Andhra Pradesh) 3 Electrical and Electronics Engineering 60 186.50 to 182.00 189.50 to 165.00 190.00 to 166.50 190.00 (Board of Intermediate Education Andhra Pradesh) 4 Electronics and Communication Engineering 60 190.00 to 187.00 190.00 to 177.50 190.00 to 170.50 196.00 (Board of Intermediate Education Andhra Pradesh) 5 Mechanical Engineering 60 187.50 to 179.00 186.00 to 163.00 188.50 to 163.00 190.00 (Board of Intermediate Education Andhra Pradesh)",
+            "parsed_data": {},
+            "academic_year": "2019-2020"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2018-2019.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2018-2019.pdf",
+            "filename": "admission_2018-2019.pdf",
+            "content": "2018-2019 Cut-off Data Sl. No. Branch Approved Intake Range of Cut-off Marks Government Quota (OC & BC) Management Quota TN State Board CBSE & ICSE Other State Boards 1 Civil Engineering 60 193.75 to 188.25 191.50 to 186.50 185.00 to 168.50 196.75 (Kerala Higher Secondary Examination Board ) 2 Computer Science and Engineering 60 197.25 to 194.25 196.50 to 190.00 192.00 to 176.50 193.30 (Board of Intermediate Education Andhra Pradesh ) 3 Electrical and Electronics Engineering 60 194.50 to 192.25 194.25 to 184.00 189.00 to 173.00 191.00 (Board of Intermediate Education Andhra Pradesh ) 4 Electronics and Communication Engineering 60 197.50 to 194.00 195.25 to 190.50 195.00 to 179.00 196.00 (Board of Intermediate Education Andhra Pradesh ) 5 Mechanical Engineering 60 197.25 to 191.75 194.75 to 190.00 192.00 to 179.00 191.30 (Board of Intermediate Education Andhra Pradesh )",
+            "parsed_data": {},
+            "academic_year": "2018-2019"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2017-2018.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2017-2018.pdf",
+            "filename": "admission_2017-2018.pdf",
+            "content": "2017-2018 Cut-off Data * Number includes MBC, SC & ST Category of Students S. No Name of the Programme Approved Intake Government Quota (OC & BC) Management Quota State Board CBSE 1. Civil Engineering 60 197.25 - 194.00 194.50 - 188.75 193.50 - 164.50 2. Computer Science and Engineering 60 197.25 - 196.25 195.75 - 193.75 193.25 - 181.50 3. Electrical and Electronics Engineering 60 196.75 - 196.00 195.25 - 185.00 186.00 - 173.00 4. Electronics and Communication Engineering 60 199.50 - 196.55 196.50 - 190.00 191.00 - 180.00 5. Mechanical Engineering 60 198.25 - 195.75 197.25 - 190.00 192.00 - 170.00",
+            "parsed_data": {},
+            "academic_year": "2017-2018"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2016-2017.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2016-2017.pdf",
+            "filename": "admission_2016-2017.pdf",
+            "content": "2016 -2017 Cut -off Data ( ) – Numbers included in paranthesis are the OC & BC ranks -2016 . * Number includes MBC, SC & ST Category of Students. ** Highest Overall Rank (1647) S. No . Name of the Programme Approved Intake Since 2014 Government Quota (OC & BC) Management Quota State Board CBSE Max Cut -off (Rank) Min Cut -off (Rank) Max Cut -off Min Cut -off Max Cut -off Min Cut -off 1. Civil Engineering 60 194.25 (6790) 192.00 (10438) 192.50 186.25 177.00 170.50 2. Computer Science and Engineering 60 197.00 (2301) 194.75 (5935) 194.75 192.00 191.00 181.00 3. Electrical and Electronics Engineering 60 197.00 (2396) 194.50 (6304) 193.75 187.00 183.00 171.00 4. Electronics and Communication Engineering 60 196.75 (2734) 195.25 (5042) 195.25 189.50 190.00 179.00 5. Mechanical Engineering 60 197.50 (1647) 195.00 (5451) 194.25 192.00 187.00 181.00 Total 300 160* 78 34 293285 272 170 159 160 119126 112 174857 050100150200250300 2014 Batch 2015 Batch 2016 BatchTotal G. Q. M. Q. Column1 Seats Vacant LateralStudent Strength (59% ) (41% ) (56%) (44%) (59%) (41%) 7 1637286 269 235 48570 050100150200250300 2014 Batch 2015 Batch 2016 BatchCBSE & ICSE State Board & Others LateralStudent – Distribution Data between State Board & CBSE Average CGPA –8.75 341 342 272955 218198 151567 123144121388 01002003004005006007008009001000 2014 Batch 2015 Batch 2016 Batch TotalTotal Male FemaleStudent – Gender Data (64%) (36%) (58%) (42%) (56%) (44%) (59% ) (41% ) Total , 341 Total , 342 Total , 272Hosteller , 175 Hosteller , 177 Hosteller , 167Dayscholar , 166 Dayscholar , 165 Dayscholar , 105 050100150200250300350 2014 Batch 2015 Batch 2016 BatchTotal Hosteller DayscholarStudent – Hosteller and Dayscholar Data (51%) (49%) (52% ) (48% ) (61%) (39%)",
+            "parsed_data": {},
+            "academic_year": "2016-2017"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2015-2016.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/admission_2015-2016.pdf",
+            "filename": "admission_2015-2016.pdf",
+            "content": "2015 -2016 Cut -off Data * Numbers include MBC, SC & ST category of Students S. No Name of the Programme Approved Intake Government Quota (OC & BC) Management Quota State Board CBSE 1. Civil Engineering 60 198.00 - 195.25 195.75 - 190.00 190.00 - 183.50 2. Computer Science and Engineering 60 197.50 - 196.00 196.00 - 193.00 190.00 - 185.00 3. Electrical and Electronics Engineering 60 198.25 - 196.50 196.00 - 191.00 189.50 - 183.00 4. Electronics and Communication Engineering 60 197.25 - 196.25 197.50 - 193.25 190.00 - 184.00 5. Mechanical Engineering 60 197.75 - 196.75 196.75 - 193.50 190.50 - 189.50 Total 300 159* 110 16",
+            "parsed_data": {},
+            "academic_year": "2015-2016"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/barch/rev/B.Arch-Cut-off-2023-2024.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/barch/rev/B.Arch-Cut-off-2023-2024.pdf",
+            "filename": "B.Arch-Cut-off-2023-2024.pdf",
+            "content": "Cu t-off Data – (2023-2024) S. NO. BR ANCH AP PROVED INTAKE RANGE OF CUT-O FF MARKS GOVERNMENT QUOTA (OC & BC) MANAGEMENT QUOTA MAX MIN MAX MIN 1 B.Arch 40 318.33 288. 00 312.50 282.00",
+            "parsed_data": {},
+            "academic_year": "2023-2024"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/barch/rev/B.Arch-Cut-off-2022-2023.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/barch/rev/B.Arch-Cut-off-2022-2023.pdf",
+            "filename": "B.Arch-Cut-off-2022-2023.pdf",
+            "content": "Cu t-off Data – (2022-2023) S. NO. BR ANCH AP PROVED INTAKE RANGE OF CUT-O FF MARKS GOVERNMENT QUOTA (OC & BC) MANAGEMENT QUOTA MAX MIN MAX MIN 1 B.Arch 40 320.60 294.00 313.60 279.48",
+            "parsed_data": {},
+            "academic_year": "2022-2023"
+        },
+        "https://psgitech.ac.in/uploads/pdf/cut_off/barch/Barch_cutoff_2021_22.pdf": {
+            "type": "cutoff_pdf",
+            "url": "https://psgitech.ac.in/uploads/pdf/cut_off/barch/Barch_cutoff_2021_22.pdf",
+            "filename": "Barch_cutoff_2021_22.pdf",
+            "content": "Cut-off Data -(2021 -2022 ) S. No. Branch Approved Intake Range of Cut -off Marks GOVERNMENT QUOTA (OC & BC) MANAGEMANT QUOTA State Board (TN) CBSE Max Min Max Min Max Min 1 B.Arch 40 307.9 276.4 278 260 282.8 259.8",
+            "parsed_data": {}
+        }
+    }
+}
